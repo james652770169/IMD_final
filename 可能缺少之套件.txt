@@ -1,0 +1,4 @@
+可能缺少之套件：
+pip install steamlit-webrtc
+pip install opencv-python
+pip install xlrd
